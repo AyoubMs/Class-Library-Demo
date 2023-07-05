@@ -1,0 +1,6 @@
+C:\Users\ayoub\source\repos\ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\ayoub\source\repos\ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\ayoub\source\repos\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\ayoub\source\repos\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
